@@ -222,10 +222,5 @@ namespace Plumsail.WSPPacker
         #endregion Optional Methods
 
         #endregion IPackerPlugin Members
-
-        public static void Log(string message)
-        {
-            //File.AppendAllText(@"c:\Temp\TotalCmd\Trace.log", string.Format("{0} - {1} \r\n", DateTime.Now.ToString(), message));
-        }
     }
 }
