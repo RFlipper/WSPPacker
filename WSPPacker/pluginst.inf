@@ -1,0 +1,7 @@
+[plugininstall]
+description=Plugin allows to work with WSP packages and CAB archives
+descriptionrus=Плагин позволяет с WSP пакетами и CAB архивами
+type=wcx
+file=WSPPacker.wcx 
+defaultdir=WSPPacker
+defaultextension=wsp,cab

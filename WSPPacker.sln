@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSPPacker", "WSPPacker\WSPPacker.csproj", "{8E6AD0DB-D481-4617-9F1C-139191FFD4DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSPPacker.Tests", "WSPPacker.Tests\WSPPacker.Tests.csproj", "{7CF81550-D782-4B65-B9C1-2C044FC31641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E6AD0DB-D481-4617-9F1C-139191FFD4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E6AD0DB-D481-4617-9F1C-139191FFD4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E6AD0DB-D481-4617-9F1C-139191FFD4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E6AD0DB-D481-4617-9F1C-139191FFD4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF81550-D782-4B65-B9C1-2C044FC31641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF81550-D782-4B65-B9C1-2C044FC31641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF81550-D782-4B65-B9C1-2C044FC31641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF81550-D782-4B65-B9C1-2C044FC31641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
